@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-g4nhxd.osbusinessservicestax.com/sitemap.xml
